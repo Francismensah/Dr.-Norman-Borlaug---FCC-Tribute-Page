@@ -1,7 +1,5 @@
 # _{FCC: Tribute Page}_
 
-#### By _**{List of contributors}**_
-
 #### _{Brief description of application}_
 
 ## Technologies Used
